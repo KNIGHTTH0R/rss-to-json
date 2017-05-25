@@ -1,0 +1,33 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "FeedForAll Sample Feed",
+  "home_page_url": "http://www.feedforall.com/industry-solutions.htm",
+  "description": "RSS is a fascinating technology. The uses for RSS are expanding daily. Take a closer look at how various industries are using the benefits of RSS in their businesses.",
+  "author": {
+    "name": "marketing@feedforall.com"
+  },
+  "items": [
+    {
+      "guid": "http://www.feedforall.com/restaurant.htm",
+      "url": "http://www.feedforall.com/restaurant.htm",
+      "title": "RSS Solutions for Restaurants",
+      "content_html": "<b>FeedForAll </b>helps Restaurant's communicate with customers. Let your customers know the latest specials or events.<br>\r\n<br>\r\nRSS feed uses include:<br>\r\n<i><font color=\"#FF0000\">Daily Specials <br>\r\nEntertainment <br>\r\nCalendar of Events </i></font>",
+      "summary": "<b>FeedForAll </b>helps Restaurant's communicate with customers. Let your customers know the latest specials or events.<br>\r\n<br>\r\nRSS feed uses include:<br>\r\n<i><font color=\"#FF0000\">Daily Specials <br>\r\nEntertainment <br>\r\nCalendar of Events </i></font>",
+      "date_published": "2004-10-19T15:09:11.000Z",
+      "author": {
+        "name": "marketing@feedforall.com"
+      }
+    },
+    {
+      "guid": "http://www.feedforall.com/schools.htm",
+      "url": "http://www.feedforall.com/schools.htm",
+      "title": "RSS Solutions for Schools and Colleges",
+      "content_html": "FeedForAll helps Educational Institutions communicate with students about school wide activities, events, and schedules.<br>\r\n<br>\r\nRSS feed uses include:<br>\r\n<i><font color=\"#0000FF\">Homework Assignments <br>\r\nSchool Cancellations <br>\r\nCalendar of Events <br>\r\nSports Scores <br>\r\nClubs/Organization Meetings <br>\r\nLunches Menus </i></font>",
+      "summary": "FeedForAll helps Educational Institutions communicate with students about school wide activities, events, and schedules.<br>\r\n<br>\r\nRSS feed uses include:<br>\r\n<i><font color=\"#0000FF\">Homework Assignments <br>\r\nSchool Cancellations <br>\r\nCalendar of Events <br>\r\nSports Scores <br>\r\nClubs/Organization Meetings <br>\r\nLunches Menus </i></font>",
+      "date_published": "2004-10-19T15:09:09.000Z",
+      "author": {
+        "name": "marketing@feedforall.com"
+      }
+    },
+  ]
+}
