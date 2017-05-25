@@ -13,8 +13,9 @@ class ConverterTest extends TestCase
     {
         $converter = Converter::from($this->getXML());
 
-        $this->assertEquals($this->getExpectedJsonFeed(), $converter->toJson());
-        // $this->assertEquals(json_decode($this->getExpectedJsonFeed(), true), $converter->toArray());
+        $expected = json_decode($this->getExpectedJsonFeed(), true);
+
+        $this->assertEquals($expected, $converter->toArray());
     }
 
     protected function getXML()

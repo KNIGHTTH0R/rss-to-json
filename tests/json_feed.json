@@ -8,7 +8,7 @@
   },
   "items": [
     {
-      "guid": "http://www.feedforall.com/restaurant.htm",
+      "id": "http://www.feedforall.com/restaurant.htm",
       "url": "http://www.feedforall.com/restaurant.htm",
       "title": "RSS Solutions for Restaurants",
       "content_html": "<b>FeedForAll </b>helps Restaurant's communicate with customers. Let your customers know the latest specials or events.<br>\r\n<br>\r\nRSS feed uses include:<br>\r\n<i><font color=\"#FF0000\">Daily Specials <br>\r\nEntertainment <br>\r\nCalendar of Events </i></font>",
@@ -19,7 +19,7 @@
       }
     },
     {
-      "guid": "http://www.feedforall.com/schools.htm",
+      "id": "http://www.feedforall.com/schools.htm",
       "url": "http://www.feedforall.com/schools.htm",
       "title": "RSS Solutions for Schools and Colleges",
       "content_html": "FeedForAll helps Educational Institutions communicate with students about school wide activities, events, and schedules.<br>\r\n<br>\r\nRSS feed uses include:<br>\r\n<i><font color=\"#0000FF\">Homework Assignments <br>\r\nSchool Cancellations <br>\r\nCalendar of Events <br>\r\nSports Scores <br>\r\nClubs/Organization Meetings <br>\r\nLunches Menus </i></font>",
@@ -28,6 +28,6 @@
       "author": {
         "name": "marketing@feedforall.com"
       }
-    },
+    }
   ]
 }
